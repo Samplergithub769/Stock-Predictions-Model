@@ -9,7 +9,7 @@ Steps to Predict Stock Price
   - Matplotlib: For visualizing stock price trends and model predictions.
   - NumPy & Pandas: For efficient data processing and manipulation.
   - Streamlit: To deploy the model as a user-friendly web application.
-  - 
+    
 Key Features of the App:
 - Displays stock data for any entered symbol.
 - Shows visualizations of stock prices compared with moving averages (MA50, MA100, MA200).
