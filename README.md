@@ -1,5 +1,6 @@
 # Stock-Predictions-Model
 This project was a fantastic opportunity to blend data science with web development and deploy a practical solution.
+
 Steps to Predict Stock Price
 - Data Source: We collected stock data using YFinance for the period between January 1, 2012, and December 21, 2022.
 - Tools Required
