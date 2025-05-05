@@ -15,6 +15,15 @@ Key Features of the App:
 - Shows visualizations of stock prices compared with moving averages (MA50, MA100, MA200).
 - Predicts future stock prices using an LSTM model and displays original vs. predicted prices.
   
-![image](https://github.com/user-attachments/assets/642aa240-bb05-4994-bd9d-13d0e516236a)
+![image](https://github.com/user-attachments/assets/b87ebc7d-36ca-45af-9ac5-6bea271aa754)
+![image](https://github.com/user-attachments/assets/75685ed7-13cd-44d1-9cc6-98a3e6bf2b48)
+![image](https://github.com/user-attachments/assets/50e07e03-4dcf-4eb5-a6e3-5f2d2519b4b3)
+![image](https://github.com/user-attachments/assets/da3634e4-03eb-4cc8-a3f8-2f7c3b45e228)
+![Uploading image.png…]()
+
+
+
+
+
 
 
